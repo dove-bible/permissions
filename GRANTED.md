@@ -13,6 +13,9 @@ List of Translations that granted permissions.
   - Contact: [CCC & TSPM](http://www.ccctspm.org/)
   - Note: They don't grant in formal, only no refuse via phone.
 
+- SND (Tagalog)
+  - Contact: [Bibles International](http://biblesint.org)
+
 Autogranted by license.
 
 - LEB (English)
@@ -31,5 +34,3 @@ Autogranted by license.
   - Contact: N/A
   - License: CC BY-NC-ND
   - [Link](https://bibles.org/versions/smk-SMKNT)
-
-
