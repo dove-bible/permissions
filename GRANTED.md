@@ -34,3 +34,8 @@ Autogranted by license.
   - Contact: N/A
   - License: CC BY-NC-ND
   - [Link](https://bibles.org/versions/smk-SMKNT)
+
+- TEL (Telugu)
+  - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
+  - License: CC BY-SA 4.0
+  - [Link](https://ebible.org/Scriptures/details.php?id=tel2017)
