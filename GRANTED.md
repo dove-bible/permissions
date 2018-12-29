@@ -39,3 +39,8 @@ Autogranted by license.
   - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
   - License: CC BY-SA 4.0
   - [Link](https://ebible.org/Scriptures/details.php?id=tel2017)
+
+- MAL (Malayalam)
+  - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
+  - License: CC BY-SA 4.0
+  - [Link](https://ebible.org/Scriptures/details.php?id=mal)
