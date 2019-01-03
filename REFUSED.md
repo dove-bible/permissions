@@ -18,3 +18,6 @@ List of Translations refused to grant permissions.
 
 - HAU (Hausa)
   - Contact: [Bible Society of Nigeria](http://www.biblesociety-nigeria.org)
+
+- SNWNT (Selee)
+  - Contact: [Wycliffe Bible Translators](https://www.wycliffe.org)
