@@ -31,8 +31,8 @@ Autogranted by license.
   - [License](http://sblgnt.com/license/)
 
 - SMKNT (Bolinao)
-  - Contact: N/A
-  - License: CC BY-NC-ND
+  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
+  - License: CC BY-NC-ND 3.0
   - [Link](https://bibles.org/versions/smk-SMKNT)
 
 - TEL (Telugu)
@@ -44,3 +44,8 @@ Autogranted by license.
   - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
   - License: CC BY-SA 4.0
   - [Link](https://ebible.org/Scriptures/details.php?id=mal)
+
+- SPYNT (Sabaot)
+  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
+  - License: CC BY-NC-ND 3.0
+  - [Link](http://bibles.org/versions/spy-SPYNT)
