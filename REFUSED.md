@@ -1,16 +1,10 @@
 List of Translations refused to grant permissions.
 
-- CNVS/CNVT (Chinese)
-  - Contact: [Worldwide Bible Society](http://www.wwbible.org/)
-
-- TLB/NLT/NTV/MSG (English)
+- MSG/NLT (English)
   - Contact: [Tyndale House Publishers Inc.](https://www.tyndale.com/)
 
 - CEB (English)
   - Contact: [Common English Bible](https://www.commonenglishbible.com/)
-
-- CCB / CCBT (Chinese)
-  - Contact: [Biblica](https://www.biblica.com/)
 
 - TPT (English)
   - Contact: [BroadStreet Publishing® Group, LLC ](http://www.broadstreetpublishing.com)
