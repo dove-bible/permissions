@@ -15,3 +15,6 @@ List of Translations refused to grant permissions.
 
 - SNWNT (Selee)
   - Contact: [Wycliffe Bible Translators](https://www.wycliffe.org)
+
+- N11BM/N78BM (Norwegian Bokmål)
+  - Contact: [The Norwegian Bible Society](https://www.bibel.no/Bibelselskapet)
