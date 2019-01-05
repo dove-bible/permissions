@@ -16,7 +16,10 @@ List of Translations that granted permissions.
 - SND (Tagalog)
   - Contact: [Bibles International](http://biblesint.org)
 
-Autogranted by license.
+- [CU89S](https://github.com/dove-bible/cu89s)/[CU89T](https://github.com/dove-bible/cu89t) (Chinese)
+  - base on public domain, modify according [HKBS](http://rcuv.hkbs.org.hk/).
+
+Auto-granted by license.
 
 - LEB (English)
   - Contact: [Lexham English Bible](http://lexhamenglishbible.com/) and [Logos Bible Software](http://www.logos.com/)
