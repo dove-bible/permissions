@@ -1,6 +1,6 @@
 List of Translations refused to grant permissions.
 
-- MSG/NLT (English)
+- MSG/NLT/TLB (English)
   - Contact: [Tyndale House Publishers Inc.](https://www.tyndale.com/)
 
 - CEB (English)
