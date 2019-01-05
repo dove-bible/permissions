@@ -49,3 +49,8 @@ Autogranted by license.
   - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
   - License: CC BY-NC-ND 3.0
   - [Link](http://bibles.org/versions/spy-SPYNT)
+
+- TAM2017 (Tamil)
+  - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
+  - License: CC BY-SA 4.0
+  - [Link](https://ebible.org/Scriptures/details.php?id=tam2017)
