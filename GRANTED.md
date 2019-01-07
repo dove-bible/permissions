@@ -9,12 +9,16 @@ List of Translations that granted permissions.
 - CSBS/CUVMPS/CSBT/CUVMPT (Chinese)
   - Contact: [Global Bible Initiative](https://www.globalbibleinitiative.org/)
 
-- CUV (Chinese)
-  - Contact: [CCC & TSPM](http://www.ccctspm.org/)
-  - Note: They don't grant in formal, only no refuse via phone.
 
 - SND (Tagalog)
   - Contact: [Bibles International](http://biblesint.org)
+
+- WYC (English)
+  - Contact: See email in copyright.
+
+- CUV (Chinese)
+  - Contact: [CCC & TSPM](http://www.ccctspm.org/)
+  - Note: They don't grant in formal, only no refuse via phone.
 
 - [CU89S](https://github.com/dove-bible/cu89s)/[CU89T](https://github.com/dove-bible/cu89t) (Chinese)
   - base on public domain, modify according [HKBS](http://rcuv.hkbs.org.hk/).
