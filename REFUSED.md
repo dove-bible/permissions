@@ -18,3 +18,6 @@ List of Translations refused to grant permissions.
 
 - N11BM/N78BM (Norwegian Bokmål)
   - Contact: [The Norwegian Bible Society](https://www.bibel.no/Bibelselskapet)
+
+- KPXNT (Mountain Koiali)
+  - Contact: [Wycliffe Bible Translators](https://www.wycliffe.org)
