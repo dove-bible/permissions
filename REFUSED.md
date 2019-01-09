@@ -21,3 +21,6 @@ List of Translations refused to grant permissions.
 
 - KPXNT (Mountain Koiali)
   - Contact: [Wycliffe Bible Translators](https://www.wycliffe.org)
+
+- ICB/NCV/NKJV/VOICE (English)
+  - Contact: [Thomas Nelson](https://www.thomasnelsonbibles.com/), [HarperCollins Christian Publishing](https://www.harpercollinschristian.com/permissions/)
