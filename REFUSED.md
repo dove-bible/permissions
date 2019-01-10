@@ -24,3 +24,6 @@ List of Translations refused to grant permissions.
 
 - ICB/NCV/NKJV/VOICE (English)
   - Contact: [Thomas Nelson](https://www.thomasnelsonbibles.com/), [HarperCollins Christian Publishing](https://www.harpercollinschristian.com/permissions/)
+
+- NLV (English)
+  - Contact: [Barbour Publishing, Inc.](http://www.barbourbooks.com)
