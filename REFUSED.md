@@ -27,3 +27,6 @@ List of Translations refused to grant permissions.
 
 - NLV (English)
   - Contact: [Barbour Publishing, Inc.](http://www.barbourbooks.com)
+
+- NBG51 (Dutch)
+  - Contact: [Netherlands Bible Society](http://www.bijbelgenootschap.nl)
