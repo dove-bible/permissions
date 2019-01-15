@@ -33,3 +33,6 @@ List of Translations refused to grant permissions.
 
 - ESV (English)
   - Contact: [Crossway Bibles](https://www.crossway.org/)
+
+- NR2006 (Italian)
+  - Contact: [Bible Society in Italy](https://www.unitedbiblesocieties.org/society/bible-society-in-italy/), [Geneva Bible Society](https://www.lacasadellabibbia.it/)
