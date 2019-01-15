@@ -30,3 +30,6 @@ List of Translations refused to grant permissions.
 
 - NBG51 (Dutch)
   - Contact: [Netherlands Bible Society](http://www.bijbelgenootschap.nl)
+
+- ESV (English)
+  - Contact: [Crossway Bibles](https://www.crossway.org/)
