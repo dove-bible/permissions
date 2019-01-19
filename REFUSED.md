@@ -36,3 +36,6 @@ List of Translations refused to grant permissions.
 
 - NR2006 (Italian)
   - Contact: [Bible Society in Italy](https://www.unitedbiblesocieties.org/society/bible-society-in-italy/), [Geneva Bible Society](https://www.lacasadellabibbia.it/)
+
+- ONDB (Ndonga)
+  - Contact: [Bible Society of Namibia](http://www.nambible.org.na/)
