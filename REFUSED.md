@@ -22,7 +22,7 @@ List of Translations refused to grant permissions.
 - KPXNT (Mountain Koiali)
   - Contact: [Wycliffe Bible Translators](https://www.wycliffe.org)
 
-- ICB/NCV/NKJV/VOICE (English)
+- ICB/NCV/NKJV/VOICE/EXB (English)
   - Contact: [Thomas Nelson](https://www.thomasnelsonbibles.com/), [HarperCollins Christian Publishing](https://www.harpercollinschristian.com/permissions/)
 
 - NLV (English)
@@ -39,3 +39,9 @@ List of Translations refused to grant permissions.
 
 - ONDB (Ndonga)
   - Contact: [Bible Society of Namibia](http://www.nambible.org.na/)
+
+- FNVDC (Fijian)
+  - Contact: [Bible Society of the South Pacific](http://bible.org.fj/)
+
+- BCND (Welsh)
+  - Contact: [British and Foreign Bible Society](https://www.biblesociety.org.uk)
