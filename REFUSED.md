@@ -45,3 +45,6 @@ List of Translations refused to grant permissions.
 
 - BCND (Welsh)
   - Contact: [British and Foreign Bible Society](https://www.biblesociety.org.uk)
+
+- SUB1949 (Shona)
+  - Contact: [British and Foreign Bible Society](https://www.biblesociety.org.uk)
