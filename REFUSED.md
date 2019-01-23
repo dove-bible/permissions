@@ -48,3 +48,6 @@ List of Translations refused to grant permissions.
 
 - SUB1949 (Shona)
   - Contact: [British and Foreign Bible Society](https://www.biblesociety.org.uk)
+
+- BDC (Romanian), Deprecated
+  - Contact: [British and Foreign Bible Society](https://www.biblesociety.org.uk)
