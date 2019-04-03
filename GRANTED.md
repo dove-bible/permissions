@@ -61,3 +61,8 @@ Auto-granted by license.
   - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
   - License: CC BY-SA 4.0
   - [Link](https://ebible.org/Scriptures/details.php?id=tam2017)
+
+- T4T (English)
+  - Contact: Ellis W. Deibler, Jr.
+  - License: CC BY-SA 4.0
+  - [Link](https://ebible.org/Scriptures/details.php?id=eng-t4t)
