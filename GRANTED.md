@@ -1,14 +1,37 @@
-List of Translations that granted permissions.
+List of licensed Translations.
+
+### via [DBL](https://thedigitalbiblelibrary.org/)
+
+- CSBS/CUVMPS/CSBT/CUVMPT (Chinese)
+  - Contact: [Global Bible Initiative](https://www.globalbibleinitiative.org/)
+
+- AKP (Siwu)
+  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
+  - [DBL Entry](https://app.thedigitalbiblelibrary.org/entry?id=d37a165ef0ea3f20)
+
+- KPXNT (Mountain Koiali)
+  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
+  - [DBL Entry](https://app.thedigitalbiblelibrary.org/entry?id=3a429410aeeeedbb)
+
+- SMKNT (Bolinao)
+  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
+  - [DBL Entry](https://app.thedigitalbiblelibrary.org/entry?id=2a477198aeee3aae)
+
+- SNWNT (Selee)
+  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org)
+  - [DBL Entry](https://app.thedigitalbiblelibrary.org/entry?id=a91fc6613e36390f)
+
+- SPYNT (Sabaot)
+  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
+  - [DBL Entry](https://app.thedigitalbiblelibrary.org/entry?id=2970d792813aef73)
+
+### via email
 
 - BRG (English)
   - Contact: [BRG Bible](http://www.brgbible.com/)
 
 - OJB (English)
   - Contact: [Artists for Israel International](https://www.afii.org/)
-
-- CSBS/CUVMPS/CSBT/CUVMPT (Chinese)
-  - Contact: [Global Bible Initiative](https://www.globalbibleinitiative.org/)
-
 
 - SND (Tagalog)
   - Contact: [Bibles International](http://biblesint.org)
@@ -23,7 +46,7 @@ List of Translations that granted permissions.
 - [CU89S](https://github.com/dove-bible/cu89s)/[CU89T](https://github.com/dove-bible/cu89t) (Chinese)
   - base on public domain, modify according [HKBS](http://rcuv.hkbs.org.hk/).
 
-Auto-granted by license.
+### Auto-Granted
 
 - LEB (English)
   - Contact: [Lexham English Bible](http://lexhamenglishbible.com/) and [Logos Bible Software](http://www.logos.com/)
@@ -37,11 +60,6 @@ Auto-granted by license.
   - Contact: [Society of Biblical Literature](http://sbl-site.org/) and [Logos Bible Software](http://www.logos.com/)
   - [License](http://sblgnt.com/license/)
 
-- SMKNT (Bolinao)
-  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
-  - License: CC BY-NC-ND 3.0
-  - [Link](https://bibles.org/versions/smk-SMKNT)
-
 - TEL (Telugu)
   - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
   - License: CC BY-SA 4.0
@@ -51,11 +69,6 @@ Auto-granted by license.
   - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
   - License: CC BY-SA 4.0
   - [Link](https://ebible.org/Scriptures/details.php?id=mal)
-
-- SPYNT (Sabaot)
-  - Contact: [Wycliffe Bible Translators, Inc](https://www.wycliffe.org/)
-  - License: CC BY-NC-ND 3.0
-  - [Link](http://bibles.org/versions/spy-SPYNT)
 
 - TAM2017 (Tamil)
   - Contact: [Bridge Connectivity Solutions](http://bridgeconn.com/)
