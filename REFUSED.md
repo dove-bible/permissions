@@ -16,9 +16,6 @@ List of Translations refused to grant permissions.
 - N11BM/N78BM (Norwegian Bokmål)
   - Contact: [The Norwegian Bible Society](https://www.bibel.no/Bibelselskapet)
 
-- KPXNT (Mountain Koiali)
-  - Contact: [Wycliffe Bible Translators](https://www.wycliffe.org)
-
 - ICB/NCV/NKJV/VOICE/EXB (English)
   - Contact: [Thomas Nelson](https://www.thomasnelsonbibles.com/), [HarperCollins Christian Publishing](https://www.harpercollinschristian.com/permissions/)
 
@@ -42,6 +39,7 @@ List of Translations refused to grant permissions.
 
 - BCND (Welsh)
   - Contact: [British and Foreign Bible Society](https://www.biblesociety.org.uk)
+  - Note: They won't grant welsh Bibles anymore.
 
 - SUB1949 (Shona)
   - Contact: [British and Foreign Bible Society](https://www.biblesociety.org.uk)
