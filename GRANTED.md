@@ -39,6 +39,8 @@ List of licensed Translations.
 - WYC (English)
   - Contact: See email in copyright.
 
+### Base on Public Domain
+
 - CUV (Chinese)
   - Contact: [CCC & TSPM](http://www.ccctspm.org/)
   - Note: They don't grant in formal, only no refuse via phone.
