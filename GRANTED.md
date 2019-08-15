@@ -1,6 +1,15 @@
 List of licensed Translations.
 
+### with licensing / royalty fees
+- KJV (English)
+  - Non-exclusive electronic format, in the English language throughout the UK, (outside the UK this work is in the public domain), for approximately 1000 users.
+  - Contact: [Cambridge University Press](https://www.cambridge.org)
+
 ### via [DBL](https://thedigitalbiblelibrary.org/)
+
+- RV1885 (English)
+  - maintained by the British and Foreign Bible Society
+  - Contact: [British & Foreign Bible Society](https://www.biblesociety.org.uk/)
 
 - CSBS/CUVMPS/CSBT/CUVMPT (Chinese)
   - Contact: [Global Bible Initiative](https://www.globalbibleinitiative.org/)
