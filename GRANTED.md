@@ -90,3 +90,8 @@ List of licensed Translations.
   - Contact: Ellis W. Deibler, Jr.
   - License: CC BY-SA 4.0
   - [Link](https://ebible.org/Scriptures/details.php?id=eng-t4t)
+
+- FBV (English)
+  - Contact: Dr. Jonathan Gallagher
+  - License: CC BY-ND 4.0
+  - [Link](https://ebible.org/Scriptures/details.php?id=engfbv)
